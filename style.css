@@ -1177,7 +1177,7 @@ nav ul li a.active {
     height: 100vh;
     z-index: 1000;
     /* just below the header (1001) */
-    background: linear-gradient(to bottom, #000000, #6e100b);
+    background: linear-gradient(to bottom, #000000, #6e100b, #000);
     backdrop-filter: blur(12px);
     display: flex;
     flex-direction: column;
